@@ -2,7 +2,7 @@
 categories = ["command-line-utilities", "development-tools"]
 description = "A CLI tool for managing cron jobs with Apalis"
 edition = "2021"
-keywords = ["cron", "cli", "apalis", "task scheduler", "command line"]
+keywords = ["cron", "cli", "apalis", "scheduler"]
 license = "MIT"
 name = "crony-cli"
 repository = "https://github.com/durocodes/crony"
